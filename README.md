@@ -1,4 +1,4 @@
-# hospital_readmission_risk_analysis
+# Hospital Readmission Risk Analysis
 
 ## Business Problem:
 
